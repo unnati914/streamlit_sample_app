@@ -1,0 +1,12 @@
+duckduckgo-search
+streamlit==1.31.1
+langchain==0.1.10
+langchain-community==0.0.25
+langchain-core==0.1.28
+langchain-openai==0.0.8
+langchain-text-splitters==0.0.1
+anthropic==0.16.0
+langchain-openai==0.0.8
+openai==1.13.3
+trubrics==1.6.2
+streamlit-feedback==0.1.3
